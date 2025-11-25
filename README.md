@@ -11,7 +11,7 @@ Given an English prompt and its French equivalent, the workflow:
 The goal is simply to provide a clear, reproducible way to observe multilingual consistency in practice.
 
 ## Statistical Treatment
-The Kolmogorov–Smirnov (K-S) metric measures how different two probability distributions are by looking at the maximum gap between their cumulative curves. It’s a simple, normalized and non-parametric way to quantify how far apart two distributions are, without making assumptions about their shape.
+The Kolmogorov–Smirnov (K-S) metric measures how different two probability distributions are by looking at the maximum gap between their cumulative curves. It’s a simple, normalized and non-parametric way to quantify how far apart two distributions are, without making assumptions about their shape. Lower values indicate higher compatibility, higher values hint at different underlying distributions.
 
 A sliced K-S metric compares two sets of embeddings by projecting them onto many random directions and measuring how different their 1-D distributions are. Averaging over these projections gives a single score (with an associated uncertainty) that reflects how similar the two original high-dimensional distributions are.
 
