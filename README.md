@@ -10,6 +10,8 @@ Given an English prompt and its French equivalent, the workflow:
 
 The goal is simply to provide a clear, reproducible way to observe multilingual consistency in practice.
 
+A sliced K-S metric compares two sets of embeddings by projecting them onto many random directions and measuring how different their 1-D distributions are. Averaging over these projections gives a single score (plus associated uncertainty) that reflects how similar the two original high-dimensional distributions are.
+
 ---
 
 ## Workflow
