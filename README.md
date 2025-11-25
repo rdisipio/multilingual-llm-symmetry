@@ -58,8 +58,7 @@ These provide a clean test bed for observing cross-language variation.
 
 ```
 models/                       # downloaded GGUF model
-notebooks/
-  multilingual_symmetry_sliced_ks.ipynb
+multilingual_symmetry_sliced_ks.ipynb
 Pipfile
 README.md
 ```
