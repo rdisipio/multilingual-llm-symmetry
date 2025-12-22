@@ -4,22 +4,17 @@ url = "https://pypi.org/simple"
 verify_ssl = true
 
 [packages]
-# Core
 numpy = "*"
 pandas = "*"
 scipy = "*"
 tqdm = "*"
-
-# Jupyter
 ipykernel = "*"
-
-# Embeddings
 transformers = "*"
 sentence-transformers = "*"
 torch = "*"  # needed for SentenceTransformer + MPS
-
-# Llama 3.1 8B GGUF via llama.cpp bindings (with Metal support on Mac)
 llama-cpp-python = {extras = ["metal"], version = "*"}
+cohere = "*"
+python-dotenv = "*"
 
 [dev-packages]
 
