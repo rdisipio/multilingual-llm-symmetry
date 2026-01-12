@@ -3,8 +3,8 @@
 This project explores whether a language model produces **consistent answers** across languages.  
 Given an English prompt and its French equivalent, the workflow:
 
-1. Generates several responses in each language using a **local Llama 3.1 8B Instruct GGUF model** (via `llama-cpp-python` and Apple’s MPS backend).
-2. Embeds all responses into a shared multilingual embedding space using **LaBSE**.
+1. Generates several responses in each language using **Cohere's APIs** (primarily the Aya family of models).
+2. Embeds all responses into a shared multilingual embedding space using **Cohere's multilingual embedding model** (embed-multilingual-v3.0).
 3. Compares the two distributions using a **Sliced Kolmogorov–Smirnov (S-KS)** distance.
 4. Averages results over many random projection directions to obtain a symmetry score with uncertainty.
 
@@ -32,14 +32,16 @@ A sliced K-S metric compares two sets of embeddings by projecting them onto many
    python -m ipykernel install --user --name=multilingual-llm-symmetry
    ```
 
-3. Download the quantized GGUF model (Llama 3.1 8B Instruct Q4_K_M) using the setup cell in the notebook.
+3. Create a `.env` file with your Cohere API key:
+
+   ```bash
+   COHERE_API_KEY=your_api_key_here
+   ```
 
 4. Run the notebook to:
-   - sample generations in EN/FR,
-   - embed with LaBSE,
+   - sample generations in EN/FR using Cohere's APIs,
+   - embed with Cohere's multilingual embedding model,
    - compute symmetry scores (mean ± CI).
-
-Everything runs locally on a MacBook using the MPS backend.
 
 ---
 
@@ -57,10 +59,11 @@ These provide a clean test bed for observing cross-language variation.
 ## Repository Structure
 
 ```
-models/                       # downloaded GGUF model
-multilingual_symmetry_sliced_ks.ipynb
-Pipfile
+cohere-multilingual-symmetry.ipynb  # Main notebook
+stats_helpers.py                     # Statistical utilities
+Pipfile                              # Dependencies
 README.md
+.env                                 # API key (not tracked in git)
 ```
 
-You can extend the prompt set, add more languages, or test additional models by editing the notebook.
+You can extend the prompt set, add more languages (including out-of-distribution languages like Inuktitut), or test additional Cohere models by editing the notebook.
