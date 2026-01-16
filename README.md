@@ -15,6 +15,8 @@ The Kolmogorov–Smirnov (K-S) metric measures how different two probability dis
 
 A sliced K-S metric compares two sets of embeddings by projecting them onto many random directions and measuring how different their 1-D distributions are. Averaging over these projections gives a single score (with an associated uncertainty) that reflects how similar the two original high-dimensional distributions are.
 
+![Pictorial representation of sliced K-S test](sliced_ks_diagram.png)
+
 ---
 
 ## Workflow
