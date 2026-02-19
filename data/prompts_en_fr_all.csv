@@ -1,0 +1,322 @@
+id,category,type,en,fr
+SCI_01,science,factual,What causes the seasons to change?,Qu’est-ce qui provoque le changement des saisons ?
+SCI_02,science,factual,Why does ice float on water?,Pourquoi la glace flotte-t-elle sur l’eau ?
+SCI_03,science,factual,How does vaccination protect against disease?,Comment la vaccination protège-t-elle contre les maladies ?
+SCI_04,science,factual,What is the difference between speed and velocity?,Quelle est la différence entre la vitesse et la vélocité ?
+SCI_05,science,factual,How do plants convert sunlight into energy?,Comment les plantes convertissent-elles la lumière du soleil en énergie ?
+SCI_06,science,factual,What causes earthquakes?,Qu’est-ce qui provoque les tremblements de terre ?
+SCI_07,science,factual,Why is the sky blue?,Pourquoi le ciel est-il bleu ?
+SCI_08,science,factual,What is the greenhouse effect?,Qu’est-ce que l’effet de serre ?
+SCI_09,science,factual,How does a battery store energy?,Comment une batterie stocke-t-elle l’énergie ?
+SCI_10,science,factual,What is DNA and what does it do?,Qu’est-ce que l’ADN et à quoi sert-il ?
+SCI_11,science,factual,Why do metals expand when heated?,Pourquoi les métaux se dilatent-ils lorsqu’on les chauffe ?
+SCI_12,science,factual,How does the human immune system work?,Comment fonctionne le système immunitaire humain ?
+SCI_13,science,factual,What is gravity?,Qu’est-ce que la gravité ?
+SCI_14,science,factual,What causes tides in the ocean?,Qu’est-ce qui provoque les marées dans l’océan ?
+SCI_15,science,factual,How do antibiotics work?,Comment fonctionnent les antibiotiques ?
+SCI_16,science,factual,What is the difference between mass and weight?,Quelle est la différence entre la masse et le poids ?
+SCI_17,science,factual,How does the internet transmit data?,Comment Internet transmet-il les données ?
+SCI_18,science,factual,Why do objects fall toward Earth?,Pourquoi les objets tombent-ils vers la Terre ?
+SCI_19,science,factual,What is an ecosystem?,Qu’est-ce qu’un écosystème ?
+SCI_20,science,factual,How does electricity flow through a circuit?,Comment l’électricité circule-t-elle dans un circuit ?
+LIT_01,literature,factual,What defines a novel?,Qu’est-ce qui définit un roman ?
+LIT_02,literature,factual,What is the role of a narrator in a story?,Quel est le rôle du narrateur dans une histoire ?
+LIT_03,literature,factual,What is symbolism in literature?,Qu’est-ce que le symbolisme en littérature ?
+LIT_04,literature,factual,How does character development work?,Comment fonctionne le développement des personnages ?
+LIT_05,literature,factual,What is the difference between prose and poetry?,Quelle est la différence entre la prose et la poésie ?
+LIT_06,literature,factual,What is a metaphor?,Qu’est-ce qu’une métaphore ?
+LIT_07,literature,factual,Why do stories use conflict?,Pourquoi les histoires utilisent-elles le conflit ?
+LIT_08,literature,factual,What is dramatic irony?,Qu’est-ce que l’ironie dramatique ?
+LIT_09,literature,factual,How does setting influence a story?,Comment le cadre (lieu et époque) influence-t-il une histoire ?
+LIT_10,literature,factual,What makes a story a tragedy?,Qu’est-ce qui fait d’une histoire une tragédie ?
+LIT_11,literature,factual,What is the purpose of dialogue?,Quel est le rôle des dialogues ?
+LIT_12,literature,factual,How does perspective shape a narrative?,Comment le point de vue façonne-t-il un récit ?
+LIT_13,literature,factual,What is a theme in literature?,Qu’est-ce qu’un thème en littérature ?
+LIT_14,literature,factual,Why are myths important in cultures?,Pourquoi les mythes sont-ils importants dans les cultures ?
+LIT_15,literature,factual,What distinguishes fiction from non-fiction?,Qu’est-ce qui distingue la fiction de la non-fiction ?
+LIT_16,literature,factual,What is satire?,Qu’est-ce que la satire ?
+LIT_17,literature,factual,How do authors build suspense?,Comment les auteurs créent-ils du suspense ?
+LIT_18,literature,factual,What is a plot twist?,Qu’est-ce qu’un retournement de situation ?
+LIT_19,literature,factual,Why do people read literature?,Pourquoi les gens lisent-ils de la littérature ?
+LIT_20,literature,factual,What is literary realism?,Qu’est-ce que le réalisme littéraire ?
+GEO_01,travels_and_geography,factual,What is the difference between a country and a continent?,Quelle est la différence entre un pays et un continent ?
+GEO_02,travels_and_geography,factual,How are mountains formed?,Comment les montagnes se forment-elles ?
+GEO_03,travels_and_geography,factual,What causes deserts to form?,Qu’est-ce qui provoque la formation des déserts ?
+GEO_04,travels_and_geography,factual,What is a peninsula?,Qu’est-ce qu’une péninsule ?
+GEO_05,travels_and_geography,factual,Why do some regions experience monsoons?,Pourquoi certaines régions connaissent-elles des moussons ?
+GEO_06,travels_and_geography,factual,What is the equator?,Qu’est-ce que l’équateur ?
+GEO_07,travels_and_geography,factual,How do rivers shape landscapes?,Comment les rivières façonnent-elles les paysages ?
+GEO_08,travels_and_geography,factual,What defines a tropical climate?,Qu’est-ce qui caractérise un climat tropical ?
+GEO_09,travels_and_geography,factual,What is urbanization?,Qu’est-ce que l’urbanisation ?
+GEO_10,travels_and_geography,factual,Why do cities develop near water?,Pourquoi les villes se développent-elles près de l’eau ?
+GEO_11,travels_and_geography,factual,What is a time zone?,Qu’est-ce qu’un fuseau horaire ?
+GEO_12,travels_and_geography,factual,What causes volcanic islands?,Qu’est-ce qui provoque la formation d’îles volcaniques ?
+GEO_13,travels_and_geography,factual,What is the difference between latitude and longitude?,Quelle est la différence entre la latitude et la longitude ?
+GEO_14,travels_and_geography,factual,Why do people migrate?,Pourquoi les gens migrent-ils ?
+GEO_15,travels_and_geography,factual,What is cultural tourism?,Qu’est-ce que le tourisme culturel ?
+GEO_16,travels_and_geography,factual,What defines a capital city?,Qu’est-ce qui définit une capitale ?
+GEO_17,travels_and_geography,factual,How does climate affect agriculture?,Comment le climat affecte-t-il l’agriculture ?
+GEO_18,travels_and_geography,factual,What is a delta?,Qu’est-ce qu’un delta ?
+GEO_19,travels_and_geography,factual,What is sustainable travel?,Qu’est-ce que le voyage durable ?
+GEO_20,travels_and_geography,factual,Why are some regions prone to hurricanes?,Pourquoi certaines régions sont-elles sujettes aux ouragans ?
+HIS_01,history,factual,What is a revolution?,Qu’est-ce qu’une révolution ?
+HIS_02,history,factual,Why do empires rise and fall?,Pourquoi les empires s’élèvent-ils et s’effondrent-ils ?
+HIS_03,history,factual,What caused World War I?,Qu’est-ce qui a causé la Première Guerre mondiale ?
+HIS_04,history,factual,What is industrialization?,Qu’est-ce que l’industrialisation ?
+HIS_05,history,factual,Why are primary sources important in history?,Pourquoi les sources primaires sont-elles importantes en histoire ?
+HIS_06,history,factual,What was the Renaissance?,Qu’était la Renaissance ?
+HIS_07,history,factual,What defines a democracy?,Qu’est-ce qui définit une démocratie ?
+HIS_08,history,factual,What was the Silk Road?,Qu’était la Route de la soie ?
+HIS_09,history,factual,Why did colonialism expand in the 19th century?,Pourquoi le colonialisme s’est-il étendu au XIXe siècle ?
+HIS_10,history,factual,What is a constitution?,Qu’est-ce qu’une constitution ?
+HIS_11,history,factual,How do historians interpret events?,Comment les historiens interprètent-ils les événements ?
+HIS_12,history,factual,What caused the Great Depression?,Qu’est-ce qui a causé la Grande Dépression ?
+HIS_13,history,factual,What is the Cold War?,Qu’est-ce que la Guerre froide ?
+HIS_14,history,factual,Why do historical narratives differ?,Pourquoi les récits historiques diffèrent-ils ?
+HIS_15,history,factual,What is feudalism?,Qu’est-ce que le féodalisme ?
+HIS_16,history,factual,What role did trade play in ancient civilizations?,Quel rôle le commerce a-t-il joué dans les civilisations anciennes ?
+HIS_17,history,factual,What is nationalism?,Qu’est-ce que le nationalisme ?
+HIS_18,history,factual,Why are historical archives important?,Pourquoi les archives historiques sont-elles importantes ?
+HIS_19,history,factual,What defines a civil war?,Qu’est-ce qui définit une guerre civile ?
+HIS_20,history,factual,How does technology change warfare?,Comment la technologie transforme-t-elle la guerre ?
+FOO_01,food_and_drink,factual,What is fermentation?,Qu’est-ce que la fermentation ?
+FOO_02,food_and_drink,factual,How does yeast make bread rise?,Comment la levure fait-elle lever le pain ?
+FOO_03,food_and_drink,factual,What is a balanced diet?,Qu’est-ce qu’une alimentation équilibrée ?
+FOO_04,food_and_drink,factual,Why does salt enhance flavor?,Pourquoi le sel rehausse-t-il le goût ?
+FOO_05,food_and_drink,factual,What is pasteurization?,Qu’est-ce que la pasteurisation ?
+FOO_06,food_and_drink,factual,How is cheese made?,Comment fabrique-t-on le fromage ?
+FOO_07,food_and_drink,factual,What is the difference between baking and roasting?,Quelle est la différence entre cuire au four et rôtir ?
+FOO_08,food_and_drink,factual,Why do fruits ripen?,Pourquoi les fruits mûrissent-ils ?
+FOO_09,food_and_drink,factual,What is umami?,Qu’est-ce que l’umami ?
+FOO_10,food_and_drink,factual,How does caffeine affect the body?,Comment la caféine affecte-t-elle le corps ?
+FOO_11,food_and_drink,factual,What is a spice?,Qu’est-ce qu’une épice ?
+FOO_12,food_and_drink,factual,Why do oils and water not mix?,Pourquoi l’huile et l’eau ne se mélangent-elles pas ?
+FOO_13,food_and_drink,factual,What is food preservation?,Qu’est-ce que la conservation des aliments ?
+FOO_14,food_and_drink,factual,How does freezing preserve food?,Comment la congélation conserve-t-elle les aliments ?
+FOO_15,food_and_drink,factual,What makes chocolate melt?,Qu’est-ce qui fait fondre le chocolat ?
+FOO_16,food_and_drink,factual,What is a marinade?,Qu’est-ce qu’une marinade ?
+FOO_17,food_and_drink,factual,Why is hydration important?,Pourquoi l’hydratation est-elle importante ?
+FOO_18,food_and_drink,factual,What is food sustainability?,Qu’est-ce que la durabilité alimentaire ?
+FOO_19,food_and_drink,factual,How does grilling change flavor?,Comment la cuisson au gril change-t-elle les saveurs ?
+FOO_20,food_and_drink,factual,What is plant-based nutrition?,Qu’est-ce que l’alimentation à base de plantes ?
+JOB_01,jobs_and_workplace,factual,What makes a good leader?,Qu’est-ce qui fait un bon leader ?
+JOB_02,jobs_and_workplace,factual,How can teams resolve conflict?,Comment les équipes peuvent-elles résoudre les conflits ?
+JOB_03,jobs_and_workplace,factual,What is professional accountability?,Qu’est-ce que la responsabilité professionnelle ?
+JOB_04,jobs_and_workplace,factual,Why is communication important at work?,Pourquoi la communication est-elle importante au travail ?
+JOB_05,jobs_and_workplace,factual,What is constructive feedback?,Qu’est-ce qu’un retour constructif ?
+JOB_06,jobs_and_workplace,factual,How can someone prepare for a job interview?,Comment se préparer à un entretien d’embauche ?
+JOB_07,jobs_and_workplace,factual,What is work-life balance?,Qu’est-ce que l’équilibre vie professionnelle / vie personnelle ?
+JOB_08,jobs_and_workplace,factual,How do organizations measure performance?,Comment les organisations mesurent-elles la performance ?
+JOB_09,jobs_and_workplace,factual,What is remote work?,Qu’est-ce que le travail à distance ?
+JOB_10,jobs_and_workplace,factual,Why is diversity important in the workplace?,Pourquoi la diversité est-elle importante au travail ?
+JOB_11,jobs_and_workplace,factual,What is time management?,Qu’est-ce que la gestion du temps ?
+JOB_12,jobs_and_workplace,factual,How can someone develop new skills?,Comment développer de nouvelles compétences ?
+JOB_13,jobs_and_workplace,factual,What is organizational culture?,Qu’est-ce que la culture d’entreprise ?
+JOB_14,jobs_and_workplace,factual,Why is collaboration important?,Pourquoi la collaboration est-elle importante ?
+JOB_15,jobs_and_workplace,factual,What is ethical decision-making at work?,Qu’est-ce que la prise de décision éthique au travail ?
+JOB_16,jobs_and_workplace,factual,How can stress be managed at work?,Comment gérer le stress au travail ?
+JOB_17,jobs_and_workplace,factual,What is mentorship?,Qu’est-ce que le mentorat ?
+JOB_18,jobs_and_workplace,factual,Why is goal-setting useful?,Pourquoi la fixation d’objectifs est-elle utile ?
+JOB_19,jobs_and_workplace,factual,What is professional development?,Qu’est-ce que le développement professionnel ?
+JOB_20,jobs_and_workplace,factual,How does automation affect jobs?,Comment l’automatisation affecte-t-elle les emplois ?
+HLT_01,health_and_habits,factual,Why is sleep important?,Pourquoi le sommeil est-il important ?
+HLT_02,health_and_habits,factual,What are the benefits of regular exercise?,Quels sont les bénéfices de l’exercice régulier ?
+HLT_03,health_and_habits,factual,How does stress affect the body?,Comment le stress affecte-t-il le corps ?
+HLT_04,health_and_habits,factual,What is a healthy habit?,Qu’est-ce qu’une habitude saine ?
+HLT_05,health_and_habits,factual,Why is hydration important?,Pourquoi l’hydratation est-elle importante ?
+HLT_06,health_and_habits,factual,How does meditation affect mental health?,Comment la méditation affecte-t-elle la santé mentale ?
+HLT_07,health_and_habits,factual,What is a balanced diet?,Qu’est-ce qu’une alimentation équilibrée ?
+HLT_08,health_and_habits,factual,Why do people form habits?,Pourquoi les gens forment-ils des habitudes ?
+HLT_09,health_and_habits,factual,How does smoking affect health?,Comment le tabagisme affecte-t-il la santé ?
+HLT_10,health_and_habits,factual,What is preventive healthcare?,Qu’est-ce que les soins préventifs ?
+HLT_11,health_and_habits,factual,Why is vaccination important?,Pourquoi la vaccination est-elle importante ?
+HLT_12,health_and_habits,factual,What is mental well-being?,Qu’est-ce que le bien-être mental ?
+HLT_13,health_and_habits,factual,How does sugar affect the body?,Comment le sucre affecte-t-il le corps ?
+HLT_14,health_and_habits,factual,What are the benefits of walking daily?,Quels sont les bénéfices de marcher chaque jour ?
+HLT_15,health_and_habits,factual,Why is posture important?,Pourquoi la posture est-elle importante ?
+HLT_16,health_and_habits,factual,What is immunity?,Qu’est-ce que l’immunité ?
+HLT_17,health_and_habits,factual,How does alcohol affect the liver?,Comment l’alcool affecte-t-il le foie ?
+HLT_18,health_and_habits,factual,Why are routine checkups important?,Pourquoi les bilans de santé réguliers sont-ils importants ?
+HLT_19,health_and_habits,factual,What is emotional resilience?,Qu’est-ce que la résilience émotionnelle ?
+HLT_20,health_and_habits,factual,How can someone build a healthy routine?,Comment construire une routine saine ?
+TEC_01,technology,factual,What is artificial intelligence?,Qu’est-ce que l’intelligence artificielle ?
+TEC_02,technology,factual,How does machine learning work?,Comment fonctionne l’apprentissage automatique ?
+TEC_03,technology,factual,What is a neural network?,Qu’est-ce qu’un réseau de neurones ?
+TEC_04,technology,factual,What is encryption?,Qu’est-ce que le chiffrement ?
+TEC_05,technology,factual,How does cloud computing work?,Comment fonctionne l’informatique en nuage ?
+TEC_06,technology,factual,What is open-source software?,Qu’est-ce que le logiciel libre (open source) ?
+TEC_07,technology,factual,How does a search engine work?,Comment fonctionne un moteur de recherche ?
+TEC_08,technology,factual,What is cybersecurity?,Qu’est-ce que la cybersécurité ?
+TEC_09,technology,factual,What is blockchain?,Qu’est-ce que la blockchain ?
+TEC_10,technology,factual,How does GPS work?,Comment fonctionne le GPS ?
+TEC_11,technology,factual,What is a database?,Qu’est-ce qu’une base de données ?
+TEC_12,technology,factual,What is an algorithm?,Qu’est-ce qu’un algorithme ?
+TEC_13,technology,factual,How does a smartphone connect to the internet?,Comment un smartphone se connecte-t-il à Internet ?
+TEC_14,technology,factual,What is digital privacy?,Qu’est-ce que la confidentialité numérique ?
+TEC_15,technology,factual,What is data compression?,Qu’est-ce que la compression de données ?
+TEC_16,technology,factual,What is edge computing?,Qu’est-ce que l’informatique en périphérie (edge computing) ?
+TEC_17,technology,factual,How do recommendation systems work?,Comment fonctionnent les systèmes de recommandation ?
+TEC_18,technology,factual,What is quantum computing?,Qu’est-ce que l’informatique quantique ?
+TEC_19,technology,factual,What is automation?,Qu’est-ce que l’automatisation ?
+TEC_20,technology,factual,What is human-computer interaction?,Qu’est-ce que l’interaction homme-machine ?
+id,category,type,en,fr
+SCI_B_01,science,open,How would you explain climate change to a child?,Comment expliqueriez-vous le changement climatique à un enfant ?
+SCI_B_02,science,open,"If you had to design a simple experiment to test gravity, what would you do?","Si vous deviez concevoir une expérience simple pour tester la gravité, que feriez-vous ?"
+SCI_B_03,science,open,How should scientists communicate uncertainty to the public?,Comment les scientifiques devraient-ils communiquer l’incertitude au public ?
+SCI_B_04,science,open,What scientific topic do you think is most misunderstood? Why?,Quel sujet scientifique est le plus mal compris selon vous ? Pourquoi ?
+SCI_B_05,science,open,How can science education be improved?,Comment peut-on améliorer l’enseignement des sciences ?
+SCI_B_06,science,open,"If you discovered a new element, how would you name it?","Si vous découvriez un nouvel élément, comment le nommeriez-vous ?"
+SCI_B_07,science,open,How should society respond to emerging diseases?,Comment la société devrait-elle réagir face aux nouvelles maladies ?
+SCI_B_08,science,open,What ethical issues arise in genetic engineering?,Quels enjeux éthiques soulève le génie génétique ?
+SCI_B_09,science,open,How would you encourage young people to pursue science?,Comment encourageriez-vous les jeunes à poursuivre des études scientifiques ?
+SCI_B_10,science,open,What scientific breakthrough would you prioritize funding?,Quelle avancée scientifique prioriseriez-vous pour un financement ?
+SCI_B_11,science,open,How can citizens contribute to scientific research?,Comment les citoyens peuvent-ils contribuer à la recherche scientifique ?
+SCI_B_12,science,open,What risks should be considered before deploying new technology?,Quels risques faut-il considérer avant de déployer une nouvelle technologie ?
+SCI_B_13,science,open,How would you explain the importance of biodiversity?,Comment expliqueriez-vous l’importance de la biodiversité ?
+SCI_B_14,science,open,What responsibility do scientists have toward society?,Quelle responsabilité les scientifiques ont-ils envers la société ?
+SCI_B_15,science,open,How can misinformation about science be addressed?,Comment lutter contre la désinformation scientifique ?
+SCI_B_16,science,open,"If you could solve one scientific problem, which would it be?","Si vous pouviez résoudre un problème scientifique, lequel serait-ce ?"
+SCI_B_17,science,open,How should research priorities be decided?,Comment les priorités de recherche devraient-elles être décidées ?
+SCI_B_18,science,open,What role should science play in policy-making?,Quel rôle la science devrait-elle jouer dans l’élaboration des politiques ?
+SCI_B_19,science,open,How can we make science more accessible to everyone?,Comment rendre la science plus accessible à tous ?
+SCI_B_20,science,open,What personal habit supports scientific thinking?,Quelle habitude personnelle favorise la pensée scientifique ?
+LIT_B_01,literature,open,How would you describe your favorite book to a friend?,Comment décririez-vous votre livre préféré à un ami ?
+LIT_B_02,literature,open,What makes a story emotionally powerful?,Qu’est-ce qui rend une histoire émotionnellement forte ?
+LIT_B_03,literature,open,How should difficult themes be handled in literature?,Comment les thèmes difficiles devraient-ils être abordés en littérature ?
+LIT_B_04,literature,open,"If you were writing a novel, what would it be about?","Si vous écriviez un roman, de quoi parlerait-il ?"
+LIT_B_05,literature,open,How does reading influence empathy?,Comment la lecture influence-t-elle l’empathie ?
+LIT_B_06,literature,open,What role does storytelling play in society?,Quel rôle le récit joue-t-il dans la société ?
+LIT_B_07,literature,open,How can literature reflect social change?,Comment la littérature peut-elle refléter le changement social ?
+LIT_B_08,literature,open,What makes a character memorable?,Qu’est-ce qui rend un personnage mémorable ?
+LIT_B_09,literature,open,How should controversial books be discussed?,Comment devrait-on discuter des livres controversés ?
+LIT_B_10,literature,open,Why do some stories endure across generations?,Pourquoi certaines histoires traversent-elles les générations ?
+LIT_B_11,literature,open,How would you adapt a novel into a film?,Comment adapteriez-vous un roman en film ?
+LIT_B_12,literature,open,What does good writing mean to you?,Que signifie pour vous une bonne écriture ?
+LIT_B_13,literature,open,How can literature challenge stereotypes?,Comment la littérature peut-elle remettre en question les stéréotypes ?
+LIT_B_14,literature,open,"If you rewrote a classic story, what would you change?","Si vous réécriviez un classique, que changeriez-vous ?"
+LIT_B_15,literature,open,How does poetry influence emotions?,Comment la poésie influence-t-elle les émotions ?
+LIT_B_16,literature,open,What advice would you give to aspiring writers?,Quel conseil donneriez-vous aux écrivains débutants ?
+LIT_B_17,literature,open,How does translation affect literature?,Comment la traduction affecte-t-elle la littérature ?
+LIT_B_18,literature,open,What is the value of reading fiction today?,Quelle est la valeur de la fiction aujourd’hui ?
+LIT_B_19,literature,open,How can literature build cultural bridges?,Comment la littérature peut-elle créer des ponts culturels ?
+LIT_B_20,literature,open,Why do people identify with fictional characters?,Pourquoi les gens s’identifient-ils aux personnages fictifs ?
+GEO_B_01,travels_and_geography,open,How would you plan a sustainable trip abroad?,Comment planifieriez-vous un voyage durable à l’étranger ?
+GEO_B_02,travels_and_geography,open,What should travelers consider before visiting a new country?,Que devraient considérer les voyageurs avant de visiter un nouveau pays ?
+GEO_B_03,travels_and_geography,open,How can tourism benefit local communities?,Comment le tourisme peut-il bénéficier aux communautés locales ?
+GEO_B_04,travels_and_geography,open,What is the value of cultural exchange through travel?,Quelle est la valeur des échanges culturels par le voyage ?
+GEO_B_05,travels_and_geography,open,How should cities prepare for climate change?,Comment les villes devraient-elles se préparer au changement climatique ?
+GEO_B_06,travels_and_geography,open,"If you could live anywhere in the world, where would you choose and why?","Si vous pouviez vivre n’importe où dans le monde, où choisiriez-vous et pourquoi ?"
+GEO_B_07,travels_and_geography,open,How can travelers reduce their environmental footprint?,Comment les voyageurs peuvent-ils réduire leur empreinte environnementale ?
+GEO_B_08,travels_and_geography,open,What makes a place feel like home?,Qu’est-ce qui fait qu’un lieu ressemble à un chez-soi ?
+GEO_B_09,travels_and_geography,open,How does geography shape culture?,Comment la géographie façonne-t-elle la culture ?
+GEO_B_10,travels_and_geography,open,How should governments manage urban growth?,Comment les gouvernements devraient-ils gérer la croissance urbaine ?
+GEO_B_11,travels_and_geography,open,What responsibilities do tourists have?,Quelles responsabilités les touristes ont-ils ?
+GEO_B_12,travels_and_geography,open,How can migration enrich societies?,Comment la migration peut-elle enrichir les sociétés ?
+GEO_B_13,travels_and_geography,open,What should be preserved in historic cities?,Que devrait-on préserver dans les villes historiques ?
+GEO_B_14,travels_and_geography,open,How would you introduce your country to a foreign visitor?,Comment présenteriez-vous votre pays à un visiteur étranger ?
+GEO_B_15,travels_and_geography,open,What role do natural parks play in conservation?,Quel rôle les parcs naturels jouent-ils dans la conservation ?
+GEO_B_16,travels_and_geography,open,How can travel broaden perspectives?,Comment le voyage peut-il élargir les perspectives ?
+GEO_B_17,travels_and_geography,open,What challenges do megacities face?,Quels défis les mégapoles rencontrent-elles ?
+GEO_B_18,travels_and_geography,open,How can local traditions be protected?,Comment protéger les traditions locales ?
+GEO_B_19,travels_and_geography,open,What makes a destination meaningful rather than just popular?,Qu’est-ce qui rend une destination significative plutôt que simplement populaire ?
+GEO_B_20,travels_and_geography,open,How should communities respond to overtourism?,Comment les communautés devraient-elles réagir au surtourisme ?
+HIS_B_01,history,open,How should societies remember difficult historical events?,Comment les sociétés devraient-elles se souvenir des événements historiques difficiles ?
+HIS_B_02,history,open,What lessons can be learned from past conflicts?,Quelles leçons peut-on tirer des conflits passés ?
+HIS_B_03,history,open,How should history be taught in schools?,Comment l’histoire devrait-elle être enseignée à l’école ?
+HIS_B_04,history,open,What role do monuments play in public memory?,Quel rôle les monuments jouent-ils dans la mémoire collective ?
+HIS_B_05,history,open,How can historical injustices be addressed today?,Comment peut-on réparer les injustices historiques aujourd’hui ?
+HIS_B_06,history,open,What is the value of preserving historical documents?,Quelle est la valeur de préserver les documents historiques ?
+HIS_B_07,history,open,How do narratives shape national identity?,Comment les récits façonnent-ils l’identité nationale ?
+HIS_B_08,history,open,How should controversial historical figures be discussed?,Comment discuter des figures historiques controversées ?
+HIS_B_09,history,open,What responsibilities do historians have?,Quelles responsabilités les historiens ont-ils ?
+HIS_B_10,history,open,How does technology change the study of history?,Comment la technologie transforme-t-elle l’étude de l’histoire ?
+HIS_B_11,history,open,What makes a historical event significant?,Qu’est-ce qui rend un événement historique significatif ?
+HIS_B_12,history,open,How should museums present complex histories?,Comment les musées devraient-ils présenter des histoires complexes ?
+HIS_B_13,history,open,How can individuals engage with local history?,Comment les individus peuvent-ils s’engager avec l’histoire locale ?
+HIS_B_14,history,open,What is the importance of oral histories?,Quelle est l’importance des récits oraux ?
+HIS_B_15,history,open,How should nations reconcile after conflict?,Comment les nations devraient-elles se réconcilier après un conflit ?
+HIS_B_16,history,open,What is the role of memory in shaping the future?,Quel est le rôle de la mémoire dans la construction de l’avenir ?
+HIS_B_17,history,open,How can history promote critical thinking?,Comment l’histoire peut-elle promouvoir l’esprit critique ?
+HIS_B_18,history,open,How should archives be made accessible?,Comment les archives devraient-elles être rendues accessibles ?
+HIS_B_19,history,open,What is the impact of globalization on historical identity?,Quel est l’impact de la mondialisation sur l’identité historique ?
+HIS_B_20,history,open,How can communities preserve intangible heritage?,Comment les communautés peuvent-elles préserver le patrimoine immatériel ?
+FOO_B_01,food_and_drink,open,How would you create a healthy weekly meal plan?,Comment élaboreriez-vous un plan de repas sain pour la semaine ?
+FOO_B_02,food_and_drink,open,What factors influence food choices?,Quels facteurs influencent les choix alimentaires ?
+FOO_B_03,food_and_drink,open,How can cooking bring people together?,Comment la cuisine peut-elle rassembler les gens ?
+FOO_B_04,food_and_drink,open,How should food waste be reduced?,Comment réduire le gaspillage alimentaire ?
+FOO_B_05,food_and_drink,open,What makes a meal culturally meaningful?,Qu’est-ce qui rend un repas culturellement significatif ?
+FOO_B_06,food_and_drink,open,How would you adapt a traditional recipe for dietary restrictions?,Comment adapteriez-vous une recette traditionnelle pour des restrictions alimentaires ?
+FOO_B_07,food_and_drink,open,What role does food play in celebrations?,Quel rôle la nourriture joue-t-elle dans les célébrations ?
+FOO_B_08,food_and_drink,open,How can individuals eat more sustainably?,Comment les individus peuvent-ils manger de manière plus durable ?
+FOO_B_09,food_and_drink,open,How should schools teach nutrition?,Comment les écoles devraient-elles enseigner la nutrition ?
+FOO_B_10,food_and_drink,open,What habits support mindful eating?,Quelles habitudes favorisent une alimentation consciente ?
+FOO_B_11,food_and_drink,open,How can communities support local agriculture?,Comment les communautés peuvent-elles soutenir l’agriculture locale ?
+FOO_B_12,food_and_drink,open,How would you teach a child to cook safely?,Comment apprendriez-vous à un enfant à cuisiner en toute sécurité ?
+FOO_B_13,food_and_drink,open,What is the social impact of global food chains?,Quel est l’impact social des chaînes alimentaires mondiales ?
+FOO_B_14,food_and_drink,open,How should restaurants balance tradition and innovation?,Comment les restaurants devraient-ils équilibrer tradition et innovation ?
+FOO_B_15,food_and_drink,open,How can food choices affect the environment?,Comment les choix alimentaires affectent-ils l’environnement ?
+FOO_B_16,food_and_drink,open,What makes a cooking experience enjoyable?,Qu’est-ce qui rend l’expérience culinaire agréable ?
+FOO_B_17,food_and_drink,open,How should governments regulate food safety?,Comment les gouvernements devraient-ils réglementer la sécurité alimentaire ?
+FOO_B_18,food_and_drink,open,What is the importance of sharing meals?,Quelle est l’importance de partager les repas ?
+FOO_B_19,food_and_drink,open,How can families encourage healthy eating habits?,Comment les familles peuvent-elles encourager de bonnes habitudes alimentaires ?
+FOO_B_20,food_and_drink,open,How would you design a sustainable cafeteria menu?,Comment concevriez-vous un menu de cafétéria durable ?
+JOB_B_01,jobs_and_workplace,open,How would you handle a disagreement with a colleague?,Comment géreriez-vous un désaccord avec un collègue ?
+JOB_B_02,jobs_and_workplace,open,What strategies improve teamwork?,Quelles stratégies améliorent le travail d’équipe ?
+JOB_B_03,jobs_and_workplace,open,How should managers support employee growth?,Comment les gestionnaires devraient-ils soutenir la croissance des employés ?
+JOB_B_04,jobs_and_workplace,open,What makes feedback effective?,Qu’est-ce qui rend un retour efficace ?
+JOB_B_05,jobs_and_workplace,open,How can workplaces promote inclusion?,Comment les lieux de travail peuvent-ils promouvoir l’inclusion ?
+JOB_B_06,jobs_and_workplace,open,How would you prioritize tasks under pressure?,Comment prioriseriez-vous les tâches sous pression ?
+JOB_B_07,jobs_and_workplace,open,What habits support long-term career development?,Quelles habitudes favorisent le développement de carrière à long terme ?
+JOB_B_08,jobs_and_workplace,open,How can leaders build trust?,Comment les leaders peuvent-ils instaurer la confiance ?
+JOB_B_09,jobs_and_workplace,open,How should organizations adapt to change?,Comment les organisations devraient-elles s’adapter au changement ?
+JOB_B_10,jobs_and_workplace,open,What role does mentorship play in success?,Quel rôle le mentorat joue-t-il dans la réussite ?
+JOB_B_11,jobs_and_workplace,open,How can remote teams stay connected?,Comment les équipes à distance peuvent-elles rester connectées ?
+JOB_B_12,jobs_and_workplace,open,How should ethical dilemmas at work be handled?,Comment gérer les dilemmes éthiques au travail ?
+JOB_B_13,jobs_and_workplace,open,What motivates employees most effectively?,Qu’est-ce qui motive le plus efficacement les employés ?
+JOB_B_14,jobs_and_workplace,open,How can burnout be prevented?,Comment prévenir l’épuisement professionnel ?
+JOB_B_15,jobs_and_workplace,open,How would you evaluate team performance?,Comment évalueriez-vous la performance d’une équipe ?
+JOB_B_16,jobs_and_workplace,open,What is the value of lifelong learning?,Quelle est la valeur de l’apprentissage tout au long de la vie ?
+JOB_B_17,jobs_and_workplace,open,How can workplaces encourage innovation?,Comment les lieux de travail peuvent-ils encourager l’innovation ?
+JOB_B_18,jobs_and_workplace,open,How should conflicts be mediated?,Comment les conflits devraient-ils être médiés ?
+JOB_B_19,jobs_and_workplace,open,How can communication improve productivity?,Comment la communication peut-elle améliorer la productivité ?
+JOB_B_20,jobs_and_workplace,open,What defines a healthy workplace culture?,Qu’est-ce qui définit une culture de travail saine ?
+HLT_B_01,health_and_habits,open,How would you build a sustainable exercise routine?,Comment construiriez-vous une routine d’exercice durable ?
+HLT_B_02,health_and_habits,open,What strategies help manage stress?,Quelles stratégies aident à gérer le stress ?
+HLT_B_03,health_and_habits,open,How can people improve sleep quality?,Comment améliorer la qualité du sommeil ?
+HLT_B_04,health_and_habits,open,How should mental health be discussed openly?,Comment devrait-on parler ouvertement de santé mentale ?
+HLT_B_05,health_and_habits,open,What habits support emotional well-being?,Quelles habitudes favorisent le bien-être émotionnel ?
+HLT_B_06,health_and_habits,open,How can communities promote public health?,Comment les communautés peuvent-elles promouvoir la santé publique ?
+HLT_B_07,health_and_habits,open,How should individuals balance work and health?,Comment équilibrer travail et santé ?
+HLT_B_08,health_and_habits,open,What motivates long-term healthy behavior?,Qu’est-ce qui motive des comportements sains à long terme ?
+HLT_B_09,health_and_habits,open,How can technology support personal health?,Comment la technologie peut-elle soutenir la santé personnelle ?
+HLT_B_10,health_and_habits,open,How should schools promote healthy lifestyles?,Comment les écoles devraient-elles promouvoir des modes de vie sains ?
+HLT_B_11,health_and_habits,open,What is the role of social support in health?,Quel est le rôle du soutien social dans la santé ?
+HLT_B_12,health_and_habits,open,How can unhealthy habits be changed?,Comment changer des habitudes malsaines ?
+HLT_B_13,health_and_habits,open,What strategies build resilience?,Quelles stratégies renforcent la résilience ?
+HLT_B_14,health_and_habits,open,How should public health information be communicated?,Comment communiquer les informations de santé publique ?
+HLT_B_15,health_and_habits,open,How can individuals stay active in sedentary jobs?,Comment rester actif dans un emploi sédentaire ?
+HLT_B_16,health_and_habits,open,What makes preventive healthcare effective?,Qu’est-ce qui rend les soins préventifs efficaces ?
+HLT_B_17,health_and_habits,open,How can families support each other’s health?,Comment les familles peuvent-elles soutenir la santé de chacun ?
+HLT_B_18,health_and_habits,open,How should nutrition be personalized?,Comment la nutrition devrait-elle être personnalisée ?
+HLT_B_19,health_and_habits,open,What practices improve long-term well-being?,Quelles pratiques améliorent le bien-être à long terme ?
+HLT_B_20,health_and_habits,open,How can daily routines influence mental health?,Comment les routines quotidiennes influencent-elles la santé mentale ?
+TEC_B_01,technology,open,How should AI be regulated?,Comment l’IA devrait-elle être réglementée ?
+TEC_B_02,technology,open,What responsibilities do tech companies have?,Quelles responsabilités les entreprises technologiques ont-elles ?
+TEC_B_03,technology,open,How can individuals protect digital privacy?,Comment protéger sa vie privée numérique ?
+TEC_B_04,technology,open,What ethical issues arise from automation?,Quels enjeux éthiques découlent de l’automatisation ?
+TEC_B_05,technology,open,How should data be used responsibly?,Comment les données devraient-elles être utilisées de manière responsable ?
+TEC_B_06,technology,open,How can technology reduce inequality?,Comment la technologie peut-elle réduire les inégalités ?
+TEC_B_07,technology,open,What risks come with rapid technological change?,Quels risques accompagnent un changement technologique rapide ?
+TEC_B_08,technology,open,How should cybersecurity awareness be improved?,Comment améliorer la sensibilisation à la cybersécurité ?
+TEC_B_09,technology,open,What role should humans play in AI decision-making?,Quel rôle les humains devraient-ils jouer dans les décisions prises par l’IA ?
+TEC_B_10,technology,open,How can open-source communities thrive?,Comment les communautés open source peuvent-elles prospérer ?
+TEC_B_11,technology,open,How should emerging technologies be evaluated?,Comment évaluer les technologies émergentes ?
+TEC_B_12,technology,open,What makes a technology trustworthy?,Qu’est-ce qui rend une technologie digne de confiance ?
+TEC_B_13,technology,open,How can digital literacy be improved?,Comment améliorer la littératie numérique ?
+TEC_B_14,technology,open,What impact does social media have on society?,Quel impact les médias sociaux ont-ils sur la société ?
+TEC_B_15,technology,open,How should governments approach tech innovation?,Comment les gouvernements devraient-ils aborder l’innovation technologique ?
+TEC_B_16,technology,open,What role does design play in ethical technology?,Quel rôle le design joue-t-il dans une technologie éthique ?
+TEC_B_17,technology,open,How can automation support rather than replace workers?,Comment l’automatisation peut-elle soutenir plutôt que remplacer les travailleurs ?
+TEC_B_18,technology,open,How should AI bias be mitigated?,Comment atténuer les biais de l’IA ?
+TEC_B_19,technology,open,What principles should guide human-computer interaction?,Quels principes devraient guider l’interaction homme-machine ?
+TEC_B_20,technology,open,How can technology strengthen democracy?,Comment la technologie peut-elle renforcer la démocratie ?
