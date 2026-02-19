@@ -1,0 +1,161 @@
+id,en,fr
+SCI_B_01,How would you explain climate change to a child?,Comment expliqueriez-vous le changement climatique à un enfant ?
+SCI_B_02,"If you had to design a simple experiment to test gravity, what would you do?","Si vous deviez concevoir une expérience simple pour tester la gravité, que feriez-vous ?"
+SCI_B_03,How should scientists communicate uncertainty to the public?,Comment les scientifiques devraient-ils communiquer l’incertitude au public ?
+SCI_B_04,What scientific topic do you think is most misunderstood? Why?,Quel sujet scientifique est le plus mal compris selon vous ? Pourquoi ?
+SCI_B_05,How can science education be improved?,Comment peut-on améliorer l’enseignement des sciences ?
+SCI_B_06,"If you discovered a new element, how would you name it?","Si vous découvriez un nouvel élément, comment le nommeriez-vous ?"
+SCI_B_07,How should society respond to emerging diseases?,Comment la société devrait-elle réagir face aux nouvelles maladies ?
+SCI_B_08,What ethical issues arise in genetic engineering?,Quels enjeux éthiques soulève le génie génétique ?
+SCI_B_09,How would you encourage young people to pursue science?,Comment encourageriez-vous les jeunes à poursuivre des études scientifiques ?
+SCI_B_10,What scientific breakthrough would you prioritize funding?,Quelle avancée scientifique prioriseriez-vous pour un financement ?
+SCI_B_11,How can citizens contribute to scientific research?,Comment les citoyens peuvent-ils contribuer à la recherche scientifique ?
+SCI_B_12,What risks should be considered before deploying new technology?,Quels risques faut-il considérer avant de déployer une nouvelle technologie ?
+SCI_B_13,How would you explain the importance of biodiversity?,Comment expliqueriez-vous l’importance de la biodiversité ?
+SCI_B_14,What responsibility do scientists have toward society?,Quelle responsabilité les scientifiques ont-ils envers la société ?
+SCI_B_15,How can misinformation about science be addressed?,Comment lutter contre la désinformation scientifique ?
+SCI_B_16,"If you could solve one scientific problem, which would it be?","Si vous pouviez résoudre un problème scientifique, lequel serait-ce ?"
+SCI_B_17,How should research priorities be decided?,Comment les priorités de recherche devraient-elles être décidées ?
+SCI_B_18,What role should science play in policy-making?,Quel rôle la science devrait-elle jouer dans l’élaboration des politiques ?
+SCI_B_19,How can we make science more accessible to everyone?,Comment rendre la science plus accessible à tous ?
+SCI_B_20,What personal habit supports scientific thinking?,Quelle habitude personnelle favorise la pensée scientifique ?
+LIT_B_01,How would you describe your favorite book to a friend?,Comment décririez-vous votre livre préféré à un ami ?
+LIT_B_02,What makes a story emotionally powerful?,Qu’est-ce qui rend une histoire émotionnellement forte ?
+LIT_B_03,How should difficult themes be handled in literature?,Comment les thèmes difficiles devraient-ils être abordés en littérature ?
+LIT_B_04,"If you were writing a novel, what would it be about?","Si vous écriviez un roman, de quoi parlerait-il ?"
+LIT_B_05,How does reading influence empathy?,Comment la lecture influence-t-elle l’empathie ?
+LIT_B_06,What role does storytelling play in society?,Quel rôle le récit joue-t-il dans la société ?
+LIT_B_07,How can literature reflect social change?,Comment la littérature peut-elle refléter le changement social ?
+LIT_B_08,What makes a character memorable?,Qu’est-ce qui rend un personnage mémorable ?
+LIT_B_09,How should controversial books be discussed?,Comment devrait-on discuter des livres controversés ?
+LIT_B_10,Why do some stories endure across generations?,Pourquoi certaines histoires traversent-elles les générations ?
+LIT_B_11,How would you adapt a novel into a film?,Comment adapteriez-vous un roman en film ?
+LIT_B_12,What does good writing mean to you?,Que signifie pour vous une bonne écriture ?
+LIT_B_13,How can literature challenge stereotypes?,Comment la littérature peut-elle remettre en question les stéréotypes ?
+LIT_B_14,"If you rewrote a classic story, what would you change?","Si vous réécriviez un classique, que changeriez-vous ?"
+LIT_B_15,How does poetry influence emotions?,Comment la poésie influence-t-elle les émotions ?
+LIT_B_16,What advice would you give to aspiring writers?,Quel conseil donneriez-vous aux écrivains débutants ?
+LIT_B_17,How does translation affect literature?,Comment la traduction affecte-t-elle la littérature ?
+LIT_B_18,What is the value of reading fiction today?,Quelle est la valeur de la fiction aujourd’hui ?
+LIT_B_19,How can literature build cultural bridges?,Comment la littérature peut-elle créer des ponts culturels ?
+LIT_B_20,Why do people identify with fictional characters?,Pourquoi les gens s’identifient-ils aux personnages fictifs ?
+GEO_B_01,How would you plan a sustainable trip abroad?,Comment planifieriez-vous un voyage durable à l’étranger ?
+GEO_B_02,What should travelers consider before visiting a new country?,Que devraient considérer les voyageurs avant de visiter un nouveau pays ?
+GEO_B_03,How can tourism benefit local communities?,Comment le tourisme peut-il bénéficier aux communautés locales ?
+GEO_B_04,What is the value of cultural exchange through travel?,Quelle est la valeur des échanges culturels par le voyage ?
+GEO_B_05,How should cities prepare for climate change?,Comment les villes devraient-elles se préparer au changement climatique ?
+GEO_B_06,"If you could live anywhere in the world, where would you choose and why?","Si vous pouviez vivre n’importe où dans le monde, où choisiriez-vous et pourquoi ?"
+GEO_B_07,How can travelers reduce their environmental footprint?,Comment les voyageurs peuvent-ils réduire leur empreinte environnementale ?
+GEO_B_08,What makes a place feel like home?,Qu’est-ce qui fait qu’un lieu ressemble à un chez-soi ?
+GEO_B_09,How does geography shape culture?,Comment la géographie façonne-t-elle la culture ?
+GEO_B_10,How should governments manage urban growth?,Comment les gouvernements devraient-ils gérer la croissance urbaine ?
+GEO_B_11,What responsibilities do tourists have?,Quelles responsabilités les touristes ont-ils ?
+GEO_B_12,How can migration enrich societies?,Comment la migration peut-elle enrichir les sociétés ?
+GEO_B_13,What should be preserved in historic cities?,Que devrait-on préserver dans les villes historiques ?
+GEO_B_14,How would you introduce your country to a foreign visitor?,Comment présenteriez-vous votre pays à un visiteur étranger ?
+GEO_B_15,What role do natural parks play in conservation?,Quel rôle les parcs naturels jouent-ils dans la conservation ?
+GEO_B_16,How can travel broaden perspectives?,Comment le voyage peut-il élargir les perspectives ?
+GEO_B_17,What challenges do megacities face?,Quels défis les mégapoles rencontrent-elles ?
+GEO_B_18,How can local traditions be protected?,Comment protéger les traditions locales ?
+GEO_B_19,What makes a destination meaningful rather than just popular?,Qu’est-ce qui rend une destination significative plutôt que simplement populaire ?
+GEO_B_20,How should communities respond to overtourism?,Comment les communautés devraient-elles réagir au surtourisme ?
+HIS_B_01,How should societies remember difficult historical events?,Comment les sociétés devraient-elles se souvenir des événements historiques difficiles ?
+HIS_B_02,What lessons can be learned from past conflicts?,Quelles leçons peut-on tirer des conflits passés ?
+HIS_B_03,How should history be taught in schools?,Comment l’histoire devrait-elle être enseignée à l’école ?
+HIS_B_04,What role do monuments play in public memory?,Quel rôle les monuments jouent-ils dans la mémoire collective ?
+HIS_B_05,How can historical injustices be addressed today?,Comment peut-on réparer les injustices historiques aujourd’hui ?
+HIS_B_06,What is the value of preserving historical documents?,Quelle est la valeur de préserver les documents historiques ?
+HIS_B_07,How do narratives shape national identity?,Comment les récits façonnent-ils l’identité nationale ?
+HIS_B_08,How should controversial historical figures be discussed?,Comment discuter des figures historiques controversées ?
+HIS_B_09,What responsibilities do historians have?,Quelles responsabilités les historiens ont-ils ?
+HIS_B_10,How does technology change the study of history?,Comment la technologie transforme-t-elle l’étude de l’histoire ?
+HIS_B_11,What makes a historical event significant?,Qu’est-ce qui rend un événement historique significatif ?
+HIS_B_12,How should museums present complex histories?,Comment les musées devraient-ils présenter des histoires complexes ?
+HIS_B_13,How can individuals engage with local history?,Comment les individus peuvent-ils s’engager avec l’histoire locale ?
+HIS_B_14,What is the importance of oral histories?,Quelle est l’importance des récits oraux ?
+HIS_B_15,How should nations reconcile after conflict?,Comment les nations devraient-elles se réconcilier après un conflit ?
+HIS_B_16,What is the role of memory in shaping the future?,Quel est le rôle de la mémoire dans la construction de l’avenir ?
+HIS_B_17,How can history promote critical thinking?,Comment l’histoire peut-elle promouvoir l’esprit critique ?
+HIS_B_18,How should archives be made accessible?,Comment les archives devraient-elles être rendues accessibles ?
+HIS_B_19,What is the impact of globalization on historical identity?,Quel est l’impact de la mondialisation sur l’identité historique ?
+HIS_B_20,How can communities preserve intangible heritage?,Comment les communautés peuvent-elles préserver le patrimoine immatériel ?
+FOO_B_01,How would you create a healthy weekly meal plan?,Comment élaboreriez-vous un plan de repas sain pour la semaine ?
+FOO_B_02,What factors influence food choices?,Quels facteurs influencent les choix alimentaires ?
+FOO_B_03,How can cooking bring people together?,Comment la cuisine peut-elle rassembler les gens ?
+FOO_B_04,How should food waste be reduced?,Comment réduire le gaspillage alimentaire ?
+FOO_B_05,What makes a meal culturally meaningful?,Qu’est-ce qui rend un repas culturellement significatif ?
+FOO_B_06,How would you adapt a traditional recipe for dietary restrictions?,Comment adapteriez-vous une recette traditionnelle pour des restrictions alimentaires ?
+FOO_B_07,What role does food play in celebrations?,Quel rôle la nourriture joue-t-elle dans les célébrations ?
+FOO_B_08,How can individuals eat more sustainably?,Comment les individus peuvent-ils manger de manière plus durable ?
+FOO_B_09,How should schools teach nutrition?,Comment les écoles devraient-elles enseigner la nutrition ?
+FOO_B_10,What habits support mindful eating?,Quelles habitudes favorisent une alimentation consciente ?
+FOO_B_11,How can communities support local agriculture?,Comment les communautés peuvent-elles soutenir l’agriculture locale ?
+FOO_B_12,How would you teach a child to cook safely?,Comment apprendriez-vous à un enfant à cuisiner en toute sécurité ?
+FOO_B_13,What is the social impact of global food chains?,Quel est l’impact social des chaînes alimentaires mondiales ?
+FOO_B_14,How should restaurants balance tradition and innovation?,Comment les restaurants devraient-ils équilibrer tradition et innovation ?
+FOO_B_15,How can food choices affect the environment?,Comment les choix alimentaires affectent-ils l’environnement ?
+FOO_B_16,What makes a cooking experience enjoyable?,Qu’est-ce qui rend l’expérience culinaire agréable ?
+FOO_B_17,How should governments regulate food safety?,Comment les gouvernements devraient-ils réglementer la sécurité alimentaire ?
+FOO_B_18,What is the importance of sharing meals?,Quelle est l’importance de partager les repas ?
+FOO_B_19,How can families encourage healthy eating habits?,Comment les familles peuvent-elles encourager de bonnes habitudes alimentaires ?
+FOO_B_20,How would you design a sustainable cafeteria menu?,Comment concevriez-vous un menu de cafétéria durable ?
+JOB_B_01,How would you handle a disagreement with a colleague?,Comment géreriez-vous un désaccord avec un collègue ?
+JOB_B_02,What strategies improve teamwork?,Quelles stratégies améliorent le travail d’équipe ?
+JOB_B_03,How should managers support employee growth?,Comment les gestionnaires devraient-ils soutenir la croissance des employés ?
+JOB_B_04,What makes feedback effective?,Qu’est-ce qui rend un retour efficace ?
+JOB_B_05,How can workplaces promote inclusion?,Comment les lieux de travail peuvent-ils promouvoir l’inclusion ?
+JOB_B_06,How would you prioritize tasks under pressure?,Comment prioriseriez-vous les tâches sous pression ?
+JOB_B_07,What habits support long-term career development?,Quelles habitudes favorisent le développement de carrière à long terme ?
+JOB_B_08,How can leaders build trust?,Comment les leaders peuvent-ils instaurer la confiance ?
+JOB_B_09,How should organizations adapt to change?,Comment les organisations devraient-elles s’adapter au changement ?
+JOB_B_10,What role does mentorship play in success?,Quel rôle le mentorat joue-t-il dans la réussite ?
+JOB_B_11,How can remote teams stay connected?,Comment les équipes à distance peuvent-elles rester connectées ?
+JOB_B_12,How should ethical dilemmas at work be handled?,Comment gérer les dilemmes éthiques au travail ?
+JOB_B_13,What motivates employees most effectively?,Qu’est-ce qui motive le plus efficacement les employés ?
+JOB_B_14,How can burnout be prevented?,Comment prévenir l’épuisement professionnel ?
+JOB_B_15,How would you evaluate team performance?,Comment évalueriez-vous la performance d’une équipe ?
+JOB_B_16,What is the value of lifelong learning?,Quelle est la valeur de l’apprentissage tout au long de la vie ?
+JOB_B_17,How can workplaces encourage innovation?,Comment les lieux de travail peuvent-ils encourager l’innovation ?
+JOB_B_18,How should conflicts be mediated?,Comment les conflits devraient-ils être médiés ?
+JOB_B_19,How can communication improve productivity?,Comment la communication peut-elle améliorer la productivité ?
+JOB_B_20,What defines a healthy workplace culture?,Qu’est-ce qui définit une culture de travail saine ?
+HLT_B_01,How would you build a sustainable exercise routine?,Comment construiriez-vous une routine d’exercice durable ?
+HLT_B_02,What strategies help manage stress?,Quelles stratégies aident à gérer le stress ?
+HLT_B_03,How can people improve sleep quality?,Comment améliorer la qualité du sommeil ?
+HLT_B_04,How should mental health be discussed openly?,Comment devrait-on parler ouvertement de santé mentale ?
+HLT_B_05,What habits support emotional well-being?,Quelles habitudes favorisent le bien-être émotionnel ?
+HLT_B_06,How can communities promote public health?,Comment les communautés peuvent-elles promouvoir la santé publique ?
+HLT_B_07,How should individuals balance work and health?,Comment équilibrer travail et santé ?
+HLT_B_08,What motivates long-term healthy behavior?,Qu’est-ce qui motive des comportements sains à long terme ?
+HLT_B_09,How can technology support personal health?,Comment la technologie peut-elle soutenir la santé personnelle ?
+HLT_B_10,How should schools promote healthy lifestyles?,Comment les écoles devraient-elles promouvoir des modes de vie sains ?
+HLT_B_11,What is the role of social support in health?,Quel est le rôle du soutien social dans la santé ?
+HLT_B_12,How can unhealthy habits be changed?,Comment changer des habitudes malsaines ?
+HLT_B_13,What strategies build resilience?,Quelles stratégies renforcent la résilience ?
+HLT_B_14,How should public health information be communicated?,Comment communiquer les informations de santé publique ?
+HLT_B_15,How can individuals stay active in sedentary jobs?,Comment rester actif dans un emploi sédentaire ?
+HLT_B_16,What makes preventive healthcare effective?,Qu’est-ce qui rend les soins préventifs efficaces ?
+HLT_B_17,How can families support each other’s health?,Comment les familles peuvent-elles soutenir la santé de chacun ?
+HLT_B_18,How should nutrition be personalized?,Comment la nutrition devrait-elle être personnalisée ?
+HLT_B_19,What practices improve long-term well-being?,Quelles pratiques améliorent le bien-être à long terme ?
+HLT_B_20,How can daily routines influence mental health?,Comment les routines quotidiennes influencent-elles la santé mentale ?
+TEC_B_01,How should AI be regulated?,Comment l’IA devrait-elle être réglementée ?
+TEC_B_02,What responsibilities do tech companies have?,Quelles responsabilités les entreprises technologiques ont-elles ?
+TEC_B_03,How can individuals protect digital privacy?,Comment protéger sa vie privée numérique ?
+TEC_B_04,What ethical issues arise from automation?,Quels enjeux éthiques découlent de l’automatisation ?
+TEC_B_05,How should data be used responsibly?,Comment les données devraient-elles être utilisées de manière responsable ?
+TEC_B_06,How can technology reduce inequality?,Comment la technologie peut-elle réduire les inégalités ?
+TEC_B_07,What risks come with rapid technological change?,Quels risques accompagnent un changement technologique rapide ?
+TEC_B_08,How should cybersecurity awareness be improved?,Comment améliorer la sensibilisation à la cybersécurité ?
+TEC_B_09,What role should humans play in AI decision-making?,Quel rôle les humains devraient-ils jouer dans les décisions prises par l’IA ?
+TEC_B_10,How can open-source communities thrive?,Comment les communautés open source peuvent-elles prospérer ?
+TEC_B_11,How should emerging technologies be evaluated?,Comment évaluer les technologies émergentes ?
+TEC_B_12,What makes a technology trustworthy?,Qu’est-ce qui rend une technologie digne de confiance ?
+TEC_B_13,How can digital literacy be improved?,Comment améliorer la littératie numérique ?
+TEC_B_14,What impact does social media have on society?,Quel impact les médias sociaux ont-ils sur la société ?
+TEC_B_15,How should governments approach tech innovation?,Comment les gouvernements devraient-ils aborder l’innovation technologique ?
+TEC_B_16,What role does design play in ethical technology?,Quel rôle le design joue-t-il dans une technologie éthique ?
+TEC_B_17,How can automation support rather than replace workers?,Comment l’automatisation peut-elle soutenir plutôt que remplacer les travailleurs ?
+TEC_B_18,How should AI bias be mitigated?,Comment atténuer les biais de l’IA ?
+TEC_B_19,What principles should guide human-computer interaction?,Quels principes devraient guider l’interaction homme-machine ?
+TEC_B_20,How can technology strengthen democracy?,Comment la technologie peut-elle renforcer la démocratie ?
