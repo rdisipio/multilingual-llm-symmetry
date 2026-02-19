@@ -1,22 +1,20 @@
 [[source]]
-name = "pypi"
 url = "https://pypi.org/simple"
 verify_ssl = true
+name = "pypi"
 
 [packages]
-numpy = "*"
+transformers = "*"
+cohere = "*"
 pandas = "*"
 scipy = "*"
 tqdm = "*"
 ipykernel = "*"
-transformers = "*"
 sentence-transformers = "*"
-torch = "*"  # needed for SentenceTransformer + MPS
-llama-cpp-python = {extras = ["metal"], version = "*"}
-cohere = "*"
-python-dotenv = "*"
+accelerate = "*"
 
 [dev-packages]
 
 [requires]
-python_version = "3.13"
+python_version = "3.14"
+python_full_version = "3.14.2"
