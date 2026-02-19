@@ -12,6 +12,8 @@ tqdm = "*"
 ipykernel = "*"
 sentence-transformers = "*"
 accelerate = "*"
+dotenv = "*"
+python-dotenv = "*"
 
 [dev-packages]
 
