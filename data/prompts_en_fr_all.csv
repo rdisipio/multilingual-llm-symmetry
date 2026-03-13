@@ -1,3 +1,4 @@
+id,category,type,en,fr
 SCI_B_13,science,open,How would you explain the importance of biodiversity?,Comment expliqueriez-vous l’importance de la biodiversité ?
 SCI_06,science,factual,What causes earthquakes?,Qu’est-ce qui provoque les tremblements de terre ?
 HLT_B_09,health_and_habits,open,How can technology support personal health?,Comment la technologie peut-elle soutenir la santé personnelle ?
@@ -7,7 +8,6 @@ JOB_B_03,jobs_and_workplace,open,How should managers support employee growth?,Co
 HLT_B_13,health_and_habits,open,What strategies build resilience?,Quelles stratégies renforcent la résilience ?
 JOB_B_11,jobs_and_workplace,open,How can remote teams stay connected?,Comment les équipes à distance peuvent-elles rester connectées ?
 HIS_02,history,factual,Why do empires rise and fall?,Pourquoi les empires s’élèvent-ils et s’effondrent-ils ?
-id,category,type,en,fr
 TEC_B_13,technology,open,How can digital literacy be improved?,Comment améliorer la littératie numérique ?
 FOO_02,food_and_drink,factual,How does yeast make bread rise?,Comment la levure fait-elle lever le pain ?
 GEO_04,travels_and_geography,factual,What is a peninsula?,Qu’est-ce qu’une péninsule ?
